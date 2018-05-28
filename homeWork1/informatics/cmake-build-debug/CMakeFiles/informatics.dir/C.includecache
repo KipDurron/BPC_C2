@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ishun/Desktop/BPC/BPC_C2/homeWork1/informatics/EvenNumber2.c
+stdio.h
+-
+
+C:/Users/ishun/Desktop/BPC/BPC_C2/homeWork1/informatics/headerNew.h
+
+C:/Users/ishun/Desktop/BPC/BPC_C2/homeWork1/informatics/main.c
+stdio.h
+-
+stdlib.h
+-
+headerNew.h
+C:/Users/ishun/Desktop/BPC/BPC_C2/homeWork1/informatics/headerNew.h
+
+C:/Users/ishun/Desktop/BPC/BPC_C2/homeWork1/informatics/square2.c
+stdio.h
+-
+
